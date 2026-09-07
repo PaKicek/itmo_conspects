@@ -31,6 +31,14 @@
 
         * [Лекция №1](https://pelmesh619.github.io/itmo_conspects/softwareqa/softwareqa-yandex/softwareqa-yandex_2026_09_04.html)
 
+* Введение в технологическое предпринимательство (лектор Суховицкий А. А.)
+
+    * Лекция №1 - в разработке
+
+* Администрирование в ОС Windows (лектор Береснев А. Д.)
+
+    * [Лекция №2](https://pelmesh619.github.io/itmo_conspects/admwindows/admwindows_2026_09_07.html)
+
 ## [VI семестр](assets/meta/VI.md)
 
 * Прикладная математика
