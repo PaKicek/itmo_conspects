@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', async function () {
 
     const currentPath = window.location.pathname;
     const domain = currentPath.replace(/^(.+\/\/.+?)\/.+$/, '$1');
-    const metaPath = currentPath.replace(/_superconspect\.html?$/i, '.meta.json');
+    const metaPath = currentPath.replace(/_superconspect(\.html)?$/i, '.meta.json');
     const metaUrl = new URL(metaPath, window.location.href).href;
 
     try {
